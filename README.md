@@ -3,4 +3,4 @@ Extracting text block
 
 Usage:
 
-a.out <inputimage_name.jpg>
+a.out inputimage_name.jpg
